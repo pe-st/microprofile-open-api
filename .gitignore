@@ -7,3 +7,7 @@
 .factorypath
 bin/
 target/
+.idea/
+*.iml
+*.iwl
+*.ipr
